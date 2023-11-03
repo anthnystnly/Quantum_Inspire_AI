@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Anthony M. Stanley - Resume</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body { font-family: Arial, sans-serif; }
+        .container { width: 80%; margin: auto; }
+        .header { text-align: center; }
+        .section { margin-top: 20px; }
+        .section-title { font-size: 20px; font-weight: bold; }
+        .contact-info { text-align: center; margin-top: 10px; }
+        .contact-link { text-decoration: none; }
+        .under-construction { color: red; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Anthony M. Stanley</h1>
+            <p>INVENTIVE AI/ML ENGINEER & FULL STACK DEVELOPER SPECIALIZING IN CLOUD MIGRATION AND AUTOMATION, WITH A FOCUS ON SYSTEMS ARCHITECTURE</p>
+            <div class="contact-info">
+                <p>Dothan, Alabama | <a href="tel:3347968665">334.796.8665</a> | <a href="mailto:anthonystanley73962000@outlook.com" class="contact-link">anthonystanley73962000@outlook.com</a></p>
+                <p><a href="https://github.com/yourusername" class="contact-link">GitHub</a> | <a href="https://discordapp.com/users/yourusername" class="contact-link">Discord</a></p>
+                <p><a href="http://quantuminspireai.com" class="contact-link under-construction">Quantum Inspire AI.com (Under Construction)</a></p>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Objective</div>
+            <p>Dynamic and innovative AI/ML Engineer with over 20 years of experience in software engineering and data science. Adept at deep learning algorithms and data analysis, currently enhancing expertise with a master’s degree in cyber security. Proven leadership and project management skills across diverse industries.</p>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Work History</div>
+            <h3>AI/Machine Learning and Software Developer</h3>
+            <p>The National Security Group INC. Modernization, March 2023 - Aug 2023</p>
+            <ul>
+                <li>Successfully completed contract 1.5 months ahead of schedule.</li>
+                <li>Led the development of a fully automated Sudoku puzzle game, enhancing team skills and engagement.</li>
+                <li>Modernized legacy systems, integrating AI to automate functions, improving operational efficiency by 40%.</li>
+                <li>Developed chatbots to enhance customer service, increasing customer interaction by 30%.</li>
+            </ul>
+            <h3>AI/Machine Learning, Software Developer, Digital Forensics Investigator</h3>
+            <p>Higher Praise Ministries Modernization, Jan 2013 - Current</p>
+            <ul>
+                <li>Enhanced organizational security posture through initiative-taking incident management.</li>
+                <li>Implemented real-time data monitoring for immediate threat detection and response.</li>
+                <li>Utilized Apache Spark for effective data visualization, aiding in complex data interpretation.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Education & Certifications</div>
+            <h3>Troy University</h3>
+            <p>MS Network and Cyber Security (2020 - Present)</p>
+            <p>Bachelor of Science in Applied Computer Science (2020)</p>
+            <p>Major: Computer Science | Minor: Digital Forensics</p>
+            <h4>Certifications</h4>
+            <ul>
+                <li>Basic Digital Forensics Certification, Texas A&M Engineering Extension Service</li>
+                <li>Certified TensorFlow Developer</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Skills & Abilities</div>
+            <ul>
+                <li>Proficient in Python, Java, C#, Prolog, Scala, SQL</li>
+                <li>Experienced in implementing AI/ML algorithms, TensorFlow, PyTorch</li>
+                <li>Skilled in data modeling, statistical analysis, and big data technologies</li>
+                <li>Expertise in cloud computing, DevOps, and software architecture</li>
+                <li>Strong leadership, efficiency, teamwork, and problem-solving abilities</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <div class="section-title">Key Projects</div>
+            <h3>Project Title: Advanced Batch Processing System Development at NSG</h3>
+            <p>Overview: Led the development of an advanced batch processing system in my first major project at NSG. This initiative highlighted my capability to integrate innovative technologies in practical settings, significantly enhancing operational efficiency.</p>
+            <h3>Project Title: Collaborative AI Sudoku Solver Initiative at NSG</h3>
+            <p>Overview: Initiated and developed a full-stack, AI-powered Sudoku solver at NSG. This project served as a creative tool for team collaboration, highlighting my ability to apply AI in enhancing workplace culture and engagement.</p>
+            <h3>Project Title: Advancing Backend Accessibility at NSG</h3>
+            <p>Overview: Pioneered the development of accessible backend solutions using Node-RED, Node.js, and Express.js. This project demonstrated my commitment to creating inclusive technology solutions, balancing technical expertise with user-centric design.</p>
+        </div>
+
+    </div>
+</body>
+</html>
